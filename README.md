@@ -8,8 +8,8 @@ https://www.kaggle.com/datasets/sadiqshah/bike-sales-in-europe/data
 
 
 Dari analysis yang dilakukan, didapatkan bahwa:
-- Negara Eropa dengan penjualan sepeda terbanyak terletak pada negara United States.
-- Sepeda yang paling banyak dibeli berjenis Tires and Tubes.
+- Negara Eropa dengan penjualan sepeda terbanyak terletak pada negara United States dan negara dengan penjualan sepeda terendah terletak pada negara France.
+- Sepeda yang paling banyak dibeli berjenis Tires and Tubes dan sepeda dengan pembeli paling sedikit berjenis Bike Stands.
 - Bulan dengan penjualan paling banyak terjadi pada bulan Juni dan penjualan paling sedikit terjadi pada bulan July.
 - Rata-rata range usia pembeli sepeda berkisaran 30 - 40 tahun.
 
